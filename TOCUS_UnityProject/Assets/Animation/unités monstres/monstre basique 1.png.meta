@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: a6139e49ff3e7f242a02cbfac6843dc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -10133171144844809
+    second: monstre basique 1_0
+  - first:
+      213: -7770521650237557667
+    second: monstre basique 1_1
+  - first:
+      213: -4841861428474475385
+    second: monstre basique 1_2
+  - first:
+      213: 236416607544306754
+    second: monstre basique 1_3
+  - first:
+      213: 7029276668042793134
+    second: monstre basique 1_4
+  - first:
+      213: -5870500870846004290
+    second: monstre basique 1_5
+  - first:
+      213: 1372074039084276991
+    second: monstre basique 1_6
+  - first:
+      213: -9103755415257029215
+    second: monstre basique 1_7
+  - first:
+      213: 3173308391965472449
+    second: monstre basique 1_8
+  - first:
+      213: -297050702945630683
+    second: monstre basique 1_9
+  - first:
+      213: -8103506916304068589
+    second: monstre basique 1_10
+  - first:
+      213: -6331077525930646772
+    second: monstre basique 1_11
+  - first:
+      213: 2808145779859928508
+    second: monstre basique 1_12
+  - first:
+      213: -1773725450878380024
+    second: monstre basique 1_13
+  - first:
+      213: -5460819992587008622
+    second: monstre basique 1_14
+  - first:
+      213: 5211886865969483799
+    second: monstre basique 1_15
+  - first:
+      213: -6514684741719711604
+    second: monstre basique 1_16
+  - first:
+      213: -8873678740336017943
+    second: monstre basique 1_17
+  - first:
+      213: 7938616646317704752
+    second: monstre basique 1_18
+  - first:
+      213: -5201520402093472130
+    second: monstre basique 1_19
+  - first:
+      213: 6904803063750352302
+    second: monstre basique 1_20
+  - first:
+      213: -1211847473689725667
+    second: monstre basique 1_21
+  - first:
+      213: 4497217248662186086
+    second: monstre basique 1_22
+  - first:
+      213: 4183372522830640275
+    second: monstre basique 1_23
+  - first:
+      213: 382283158801386811
+    second: monstre basique 1_24
+  - first:
+      213: -5491551006486168394
+    second: monstre basique 1_25
+  - first:
+      213: 8348018578891597611
+    second: monstre basique 1_26
+  - first:
+      213: 3053219423109062759
+    second: monstre basique 1_27
+  - first:
+      213: 8843785224016800396
+    second: monstre basique 1_28
+  - first:
+      213: -3457029020447432998
+    second: monstre basique 1_29
+  - first:
+      213: -192791675605744333
+    second: monstre basique 1_30
+  - first:
+      213: 4423371397606943388
+    second: monstre basique 1_31
+  - first:
+      213: 5289820951527468080
+    second: monstre basique 1_33
+  - first:
+      213: 3630212248165534903
+    second: monstre basique 1_34
+  - first:
+      213: 7156877898083010712
+    second: monstre basique 1_37
+  - first:
+      213: -200215584319050604
+    second: monstre basique 1_40
+  - first:
+      213: 1367462374995559284
+    second: monstre basique 1_54
+  - first:
+      213: 863296299939166932
+    second: monstre basique 1_58
+  - first:
+      213: 5198798310497460764
+    second: monstre basique 1_69
+  - first:
+      213: -486797872158996949
+    second: monstre basique 1_71
+  - first:
+      213: 3779675984592718291
+    second: monstre basique 1_72
+  - first:
+      213: 5050513533946140494
+    second: monstre basique 1_74
+  - first:
+      213: -3819872437191403696
+    second: monstre basique 1_75
+  - first:
+      213: 3346903782352454789
+    second: monstre basique 1_76
+  - first:
+      213: 2980852533323216960
+    second: monstre basique 1_77
+  - first:
+      213: -256509963508284342
+    second: monstre basique 1_91
+  - first:
+      213: -6633667967714277416
+    second: monstre basique 1_93
+  - first:
+      213: -5232800575014444737
+    second: monstre basique 1_110
+  - first:
+      213: -1271379190213276237
+    second: monstre basique 1_111
+  - first:
+      213: -7962848539954821607
+    second: monstre basique 1_112
+  - first:
+      213: -5083777244559056622
+    second: monstre basique 1_113
+  - first:
+      213: 6359128757679940310
+    second: monstre basique 1_114
+  - first:
+      213: 1667325444253433826
+    second: monstre basique 1_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstre basique 1_0
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3014
+        width: 157
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2340e3d6c021fac4b9801e719b037d2c
+      internalID: -10133171144844809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_1
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 3021
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41025c7d87df9974fb7629efd80e7a09
+      internalID: -7770521650237557667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 3019
+        width: 157
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a5a724bd068ea429c2e4e79f17783c
+      internalID: -4841861428474475385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3017
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02267d334a3d62740b3478e232f6a296
+      internalID: 236416607544306754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_4
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3015
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85faf9888b1082b49ad33179d18e3cda
+      internalID: 7029276668042793134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3023
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394390eb7afae1746af561041f86834c
+      internalID: -5870500870846004290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_6
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3021
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d6cdb877a82549a51a6671d67a724
+      internalID: 1372074039084276991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_7
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3023
+        width: 158
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716a2ec89c70f84f883d2dc557fd8fc
+      internalID: -9103755415257029215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_8
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2763
+        width: 157
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d95e7162bdafe47a701be3ab6a60b8
+      internalID: 3173308391965472449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2762
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be43d51ec19d0744a1b2d78147ac394
+      internalID: -297050702945630683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_10
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2755
+        width: 157
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb6f56c7e04b874ab3a0782c1cdfb9d
+      internalID: -8103506916304068589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2756
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69507cc489d8ace459be915d7ab3485b
+      internalID: -6331077525930646772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2751
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dcc4968cc134048a6e3055a6f55b53
+      internalID: 2808145779859928508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_13
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 2755
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29efb924e0efb14eadab7ee721e9627
+      internalID: -1773725450878380024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_14
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 2749
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4654465082aa5b4386f649da6d86436
+      internalID: -5460819992587008622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_15
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 2745
+        width: 158
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba6f4817421f7145bc830e0592f46d7
+      internalID: 5211886865969483799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2493
+        width: 182
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e963eed2479694d88589513aea7aa6
+      internalID: -6514684741719711604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_17
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2491
+        width: 167
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4252a5488c424b83300849a2b55c3
+      internalID: -8873678740336017943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_18
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2493
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0963d110b3cb4f8f251f30192189d
+      internalID: 7938616646317704752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_19
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2485
+        width: 149
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cdfa3d321852a41898025853b893fb
+      internalID: -5201520402093472130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_20
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2484
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d66472fe51754448cbfb677a09ca35
+      internalID: 6904803063750352302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_21
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2474
+        width: 186
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469ed5907ea017840a3a6678bae57990
+      internalID: -1211847473689725667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_22
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2255
+        width: 182
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a45e73f2c5b7d84bb1c4c48a74da57b
+      internalID: 4497217248662186086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2263
+        width: 179
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cec4afc304b5b34f8be2a449742689a
+      internalID: 4183372522830640275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_24
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2268
+        width: 149
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d476ead497cca741bb0aa4036b1c571
+      internalID: 382283158801386811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_25
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 2267
+        width: 149
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757ec74b61093a4493ab362629cf9be
+      internalID: -5491551006486168394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_26
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2270
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7139da4ae503d4f8e56100cdb29bec
+      internalID: 8348018578891597611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_27
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2269
+        width: 155
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbb4d77f93a1949840993516405a92
+      internalID: 3053219423109062759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1972
+        width: 116
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3676258ce580b4cb81f6f0b42cc349
+      internalID: 8843785224016800396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_29
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1974
+        width: 116
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3c25f37c3a5b4f8da09e8fefead7e
+      internalID: -3457029020447432998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_30
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1972
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a298be504eab7e4281d4f243a499cec
+      internalID: -192791675605744333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_31
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1975
+        width: 153
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ccc78a924d349478b48d0cb8a414ae
+      internalID: 4423371397606943388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_33
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1967
+        width: 222
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6fa08d731e36740826375e1eb98c6c
+      internalID: 5289820951527468080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_34
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1962
+        width: 189
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee488e37163574e9dd724aa1c9bc87
+      internalID: 3630212248165534903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_37
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2072
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cca77a6f6b3df4eab25e11da791822
+      internalID: 7156877898083010712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_40
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1948
+        width: 170
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3aa96053fec06428ce012d9ee100ba
+      internalID: -200215584319050604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_54
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2006
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a472a1729760854b98ea686af61f422
+      internalID: 1367462374995559284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_58
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1957
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb4e349ee614d4f91b017a69e9b91d
+      internalID: 863296299939166932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_69
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1639
+        width: 175
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af26fa64f3ad769478a5eafe241f10a8
+      internalID: 5198798310497460764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_71
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1652
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d45bfe2dbf5e4cb24beaa95848d4d
+      internalID: -486797872158996949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_72
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1655
+        width: 215
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d388e36819b1448a956929bddbd620
+      internalID: 3779675984592718291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_74
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1661
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a272ed047206c8b46855c8b53904fd6d
+      internalID: 5050513533946140494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_75
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1663
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6142379cec3040a1bdab056fe02dc
+      internalID: -3819872437191403696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_76
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1665
+        width: 116
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed4740a04a412541ad5388d18b7eb04
+      internalID: 3346903782352454789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_77
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1663
+        width: 116
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7689d8b989de44882d430ebcf732b7
+      internalID: 2980852533323216960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_91
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1697
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1b7876872458408fbba159b7d2fc1
+      internalID: -256509963508284342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_93
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1647
+        width: 171
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa9af6ee140bb499032fbbb5489d8f
+      internalID: -6633667967714277416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_110
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1400
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60952f10bfe16643bb6c061c28def68
+      internalID: -5232800575014444737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_111
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1403
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a5ddad16489e43acdfb095ce1c9a3
+      internalID: -1271379190213276237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_112
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1403
+        width: 137
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50966a8a59f654a46a2f5a1eaf026fef
+      internalID: -7962848539954821607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_113
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1161
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270bc14564a06845ae405ef5093d420
+      internalID: -5083777244559056622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_114
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1164
+        width: 137
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14254c5ef9f21dc45a456ee74f027523
+      internalID: 6359128757679940310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre basique 1_115
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1163
+        width: 137
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e763455cceec8434ebda81c7fbb96c28
+      internalID: 1667325444253433826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

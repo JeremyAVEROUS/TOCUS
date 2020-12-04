@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: e921fd61ba912ae4fa924fe8d88c9c16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3448271548906064689
+    second: barbare bleu_0
+  - first:
+      213: -4084512309262643284
+    second: barbare bleu_1
+  - first:
+      213: 2862565752351038633
+    second: barbare bleu_2
+  - first:
+      213: 843425434954252091
+    second: barbare bleu_3
+  - first:
+      213: -2539366634287733488
+    second: barbare bleu_5
+  - first:
+      213: -4461030035400384811
+    second: barbare bleu_6
+  - first:
+      213: -312556280870690401
+    second: barbare bleu_7
+  - first:
+      213: 5852881424051070297
+    second: barbare bleu_8
+  - first:
+      213: -6247447778801986809
+    second: barbare bleu_9
+  - first:
+      213: -2893055372151866555
+    second: barbare bleu_11
+  - first:
+      213: 3691374808732745663
+    second: barbare bleu_12
+  - first:
+      213: 7885061777056700451
+    second: barbare bleu_13
+  - first:
+      213: 443609158371714990
+    second: barbare bleu_14
+  - first:
+      213: 8319613731915746561
+    second: barbare bleu_15
+  - first:
+      213: -2107260401644984155
+    second: barbare bleu_16
+  - first:
+      213: 731427307666661900
+    second: barbare bleu_17
+  - first:
+      213: -7927719791451496075
+    second: barbare bleu_18
+  - first:
+      213: 8527718793448159874
+    second: barbare bleu_19
+  - first:
+      213: -2995630696313140872
+    second: barbare bleu_20
+  - first:
+      213: -8586409556575398316
+    second: barbare bleu_21
+  - first:
+      213: -8667364494348805410
+    second: barbare bleu_22
+  - first:
+      213: -5581109842250007912
+    second: barbare bleu_23
+  - first:
+      213: 5380204002088277260
+    second: barbare bleu_24
+  - first:
+      213: -7983411628315547489
+    second: barbare bleu_25
+  - first:
+      213: -5729793019468149734
+    second: barbare bleu_27
+  - first:
+      213: -7584925500438643374
+    second: barbare bleu_28
+  - first:
+      213: -4234765638970925324
+    second: barbare bleu_30
+  - first:
+      213: -5813832529348044923
+    second: barbare bleu_32
+  - first:
+      213: -8471379232259644722
+    second: barbare bleu_33
+  - first:
+      213: -181829812311994865
+    second: barbare bleu_34
+  - first:
+      213: 6723273850315883172
+    second: barbare bleu_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barbare bleu_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3162
+        width: 296
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d781cde4810d4a8d6070930920434
+      internalID: -3448271548906064689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3159
+        width: 296
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4981c42cdc8914bba833bde3e7e16f
+      internalID: -4084512309262643284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2849
+        width: 276
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed131157793ab347b7c8c5bc34d569b
+      internalID: 2862565752351038633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2830
+        width: 288
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a42b413cab5771429c8682bf5284042
+      internalID: 843425434954252091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_5
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2842
+        width: 283
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9da84970925f04c8a476a96e22cec7
+      internalID: -2539366634287733488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_6
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2831
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560df783084528943bdb8be3ce80143a
+      internalID: -4461030035400384811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_7
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2820
+        width: 277
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23db5ff6b368c34189a120bfa1c5acf
+      internalID: -312556280870690401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2525
+        width: 276
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070409d260ecb1c41b40c0653242b088
+      internalID: 5852881424051070297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2514
+        width: 279
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d8533f1df55445842268df7596651
+      internalID: -6247447778801986809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_11
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2519
+        width: 283
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a846f296339814347918a24b25b1e4b6
+      internalID: -2893055372151866555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_12
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2512
+        width: 277
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33313460e3ec8d640bb035a245bdcdbb
+      internalID: 3691374808732745663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_13
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2503
+        width: 277
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f916c2c74c716a4abb1de81fcd28c58
+      internalID: 7885061777056700451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2170
+        width: 343
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5ca931ba8872478936e096320a0d7
+      internalID: 443609158371714990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2167
+        width: 334
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514351b11ac1094c9809f1f7de419ce
+      internalID: 8319613731915746561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_16
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2162
+        width: 324
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e18ded4a4243747bd1998d64acc7c7
+      internalID: -2107260401644984155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1785
+        width: 342
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eed52fd1b69ea14c92a8e02098f4110
+      internalID: 731427307666661900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1782
+        width: 334
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1da0fb8329a2548bf21887897ca188
+      internalID: -7927719791451496075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_19
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1776
+        width: 327
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbbd4dce2c1b424c97adba117d74316
+      internalID: 8527718793448159874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1374
+        width: 309
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b51bd1bfcad74fa7ecceefa9905b3
+      internalID: -2995630696313140872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1389
+        width: 308
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17753384f277032468cc8470511ac476
+      internalID: -8586409556575398316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_22
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1393
+        width: 289
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734d8ec045e9b04bb395e08c667d7bc
+      internalID: -8667364494348805410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_23
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1379
+        width: 328
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c1110fb6ab214195e7ed5e70c6062
+      internalID: -5581109842250007912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_24
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 1435
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951d1d51c13dc247981ffe514ab8a0a
+      internalID: 5380204002088277260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_25
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1369
+        width: 352
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ef21c0432c564418df481a88c629aa
+      internalID: -7983411628315547489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_27
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1331
+        width: 371
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae7ac6d0b9ed74dbb1f93471e36356
+      internalID: -5729793019468149734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 900
+        width: 373
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe5fa6b9fa90e41851ca876aed16ba
+      internalID: -7584925500438643374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_30
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 915
+        width: 374
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b797463f81ff764d99cdb9e6ce92c48
+      internalID: -4234765638970925324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_32
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 948
+        width: 336
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69253248045af14795a3e23d6bbc254
+      internalID: -5813832529348044923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_33
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 962
+        width: 289
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee05ab3be330da45b3c36294644d3cd
+      internalID: -8471379232259644722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_34
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 958
+        width: 310
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68ee4414579bd46bf9f6d77b630a29
+      internalID: -181829812311994865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barbare bleu_35
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 957
+        width: 308
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88497fee618550e4c9a41965f16c24ca
+      internalID: 6723273850315883172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 44c02f49bfb502a48bff4e7d7a1d01ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6632920219406007075
+    second: monstre boxeur combat 1_0
+  - first:
+      213: -789734287187529375
+    second: monstre boxeur combat 1_1
+  - first:
+      213: 2453565568958342507
+    second: monstre boxeur combat 1_2
+  - first:
+      213: -4781258531573416814
+    second: monstre boxeur combat 1_3
+  - first:
+      213: -9155033482403617864
+    second: monstre boxeur combat 1_4
+  - first:
+      213: -7651361260227145551
+    second: monstre boxeur combat 1_5
+  - first:
+      213: -3955348190662683538
+    second: monstre boxeur combat 1_6
+  - first:
+      213: -5844645543089678860
+    second: monstre boxeur combat 1_7
+  - first:
+      213: -2168476943180891649
+    second: monstre boxeur combat 1_8
+  - first:
+      213: -6835103587777559101
+    second: monstre boxeur combat 1_9
+  - first:
+      213: 7297474774918602998
+    second: monstre boxeur combat 1_10
+  - first:
+      213: 8245262175722091027
+    second: monstre boxeur combat 1_11
+  - first:
+      213: -5003987230145480763
+    second: monstre boxeur combat 1_12
+  - first:
+      213: 8305010782840075848
+    second: monstre boxeur combat 1_13
+  - first:
+      213: 570606421884278411
+    second: monstre boxeur combat 1_14
+  - first:
+      213: -2291883508974710893
+    second: monstre boxeur combat 1_15
+  - first:
+      213: -8625041598406489189
+    second: monstre boxeur combat 1_16
+  - first:
+      213: -6946222523959951106
+    second: monstre boxeur combat 1_17
+  - first:
+      213: -5688935014714262994
+    second: monstre boxeur combat 1_18
+  - first:
+      213: -3801393037222916117
+    second: monstre boxeur combat 1_19
+  - first:
+      213: -5232426725159968329
+    second: monstre boxeur combat 1_20
+  - first:
+      213: 454166842646727066
+    second: monstre boxeur combat 1_21
+  - first:
+      213: -107458621096001428
+    second: monstre boxeur combat 1_22
+  - first:
+      213: 7035825771077966797
+    second: monstre boxeur combat 1_23
+  - first:
+      213: 4327878145086437343
+    second: monstre boxeur combat 1_24
+  - first:
+      213: -3334130580364040363
+    second: monstre boxeur combat 1_25
+  - first:
+      213: 563613535187010095
+    second: monstre boxeur combat 1_26
+  - first:
+      213: -7159421422847644697
+    second: monstre boxeur combat 1_27
+  - first:
+      213: -5234579722094243983
+    second: monstre boxeur combat 1_30
+  - first:
+      213: 1733530623495353905
+    second: monstre boxeur combat 1_37
+  - first:
+      213: 4194582072790772425
+    second: monstre boxeur combat 1_38
+  - first:
+      213: 2751955763316727668
+    second: monstre boxeur combat 1_45
+  - first:
+      213: -5814939584623243969
+    second: monstre boxeur combat 1_46
+  - first:
+      213: 2820635229718732280
+    second: monstre boxeur combat 1_51
+  - first:
+      213: 3554772581720248421
+    second: monstre boxeur combat 1_86
+  - first:
+      213: 6527356127759248248
+    second: monstre boxeur combat 1_87
+  - first:
+      213: -5819535321231861122
+    second: monstre boxeur combat 1_88
+  - first:
+      213: -6428990703409209522
+    second: monstre boxeur combat 1_89
+  - first:
+      213: 8542707594089342500
+    second: monstre boxeur combat 1_103
+  - first:
+      213: -4938505281629055185
+    second: monstre boxeur combat 1_112
+  - first:
+      213: -1576241645499668643
+    second: monstre boxeur combat 1_126
+  - first:
+      213: -298794417743864165
+    second: monstre boxeur combat 1_127
+  - first:
+      213: -198721868214265084
+    second: monstre boxeur combat 1_132
+  - first:
+      213: 7654955205462418845
+    second: monstre boxeur combat 1_142
+  - first:
+      213: 7191631082419766408
+    second: monstre boxeur combat 1_143
+  - first:
+      213: -6644472421278491111
+    second: monstre boxeur combat 1_144
+  - first:
+      213: 3163497635018935671
+    second: monstre boxeur combat 1_145
+  - first:
+      213: -3462238929984711146
+    second: monstre boxeur combat 1_146
+  - first:
+      213: 4054214756748562856
+    second: monstre boxeur combat 1_147
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3020
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2655dbd2d1ae7f47965077046f77e46
+      internalID: -6632920219406007075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3025
+        width: 165
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff522867ab9cba41b81728e7e35261b
+      internalID: -789734287187529375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3030
+        width: 130
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207e7ceab1b79204ca2593887ddd19f6
+      internalID: 2453565568958342507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3027
+        width: 155
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5db0d8375b944db80731798924f83
+      internalID: -4781258531573416814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3025
+        width: 151
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecbd069a032f9418226d953b0a6a7d
+      internalID: -9155033482403617864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_5
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3026
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751e905f07faa449940a105bf9f97cd
+      internalID: -7651361260227145551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2698
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fb9a03f82718c4caf0f9c376e0fcbf
+      internalID: -3955348190662683538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2697
+        width: 164
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13ceda0f7f22a41b3bae4d82769778
+      internalID: -5844645543089678860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_8
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2702
+        width: 130
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbbf53faea667f42b3a00dc69c748d9
+      internalID: -2168476943180891649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2703
+        width: 151
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fee1ef78b3a4946b5d61c18b3fc1b0
+      internalID: -6835103587777559101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_10
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2702
+        width: 141
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3016b3b5b46ee4ea81e92ff3c0c842
+      internalID: 7297474774918602998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_11
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2701
+        width: 169
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e38fc438926064586a7384665407da
+      internalID: 8245262175722091027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2352
+        width: 138
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be54a98b9e88be046a4c048cb27dd061
+      internalID: -5003987230145480763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2345
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8334ee8b8283d2479fd6b053245f518
+      internalID: 8305010782840075848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2341
+        width: 112
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011062e8dd395254fbf73f33ecefd13d
+      internalID: 570606421884278411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2340
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5baa3ee5913d4c478aada51ca66958e
+      internalID: -2291883508974710893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_16
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 2334
+        width: 111
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a34d7a6e7fd45a4cb49dfa12933275d
+      internalID: -8625041598406489189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_17
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2341
+        width: 110
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b30346262d784b8a1ece798e52a36
+      internalID: -6946222523959951106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2056
+        width: 110
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e24683bc665f4f99c8f5429678a86
+      internalID: -5688935014714262994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_19
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2049
+        width: 111
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe3dab4a3889c428e60e1f93796d99
+      internalID: -3801393037222916117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2055
+        width: 108
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee816f536e4da4478a572c818d16925
+      internalID: -5232426725159968329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_21
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2056
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5e139b1edf3b40b3b782d919b7c91
+      internalID: 454166842646727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_22
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2060
+        width: 113
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f36a1bca903049a13c67c7fe3cb07
+      internalID: -107458621096001428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_23
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2067
+        width: 138
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666537969a1f3464d9ab29db392af41c
+      internalID: 7035825771077966797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1826
+        width: 137
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5e24e3c74587e4c9cddf5002bf5d45
+      internalID: 4327878145086437343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1826
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c2aa4343d192458089f5725abb7a7
+      internalID: -3334130580364040363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1826
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d449d5f6637a46b5f6d676460d3e6
+      internalID: 563613535187010095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_27
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1853
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5972e955680a41bd5b2d4b4e59daa
+      internalID: -7159421422847644697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_30
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1846
+        width: 136
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90967b66abafa1c4eb6072d1d1b161d9
+      internalID: -5234579722094243983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_37
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1912
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104df20581dbd3a4fb53fbbb6a9c8e26
+      internalID: 1733530623495353905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_38
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1864
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac24859970d16341b18ea996a6629e3
+      internalID: 4194582072790772425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_45
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1904
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966263c0d548ce47ac2c9793283d93a
+      internalID: 2751955763316727668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_46
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1849
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4ac9dcd1853fc4190e1377b849fc89
+      internalID: -5814939584623243969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_51
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1858
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf11e4cc97986f43a6d415797949b7c
+      internalID: 2820635229718732280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1651
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa7586550b9b2479265556f7479252
+      internalID: 3554772581720248421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_87
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1551
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a774f6332c6b4a498c22f40a7daed7f
+      internalID: 6527356127759248248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_88
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1551
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb26e1e8688bc40b12c707f7a98733
+      internalID: -5819535321231861122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_89
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1551
+        width: 137
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac05b5b49960e43901d9a5b08a03c0
+      internalID: -6428990703409209522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_103
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1619
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46cb76f0e1e104d8f5fe493a1e8e0e
+      internalID: 8542707594089342500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_112
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1615
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa472de7b3624241bf9ff335d4dfb01
+      internalID: -4938505281629055185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_126
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1604
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d43af32096074d9455cfa341a3df5
+      internalID: -1576241645499668643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_127
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1603
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5369483f97adb478bfb7a852f7c519
+      internalID: -298794417743864165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_132
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827d50acc138e104e923244de0b27b65
+      internalID: -198721868214265084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_142
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1314
+        width: 137
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fadf6c0c6d614297d0083e4b2738b
+      internalID: 7654955205462418845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_143
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1309
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821335620f7c5474cb59c972b5167427
+      internalID: 7191631082419766408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_144
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1318
+        width: 137
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a710af3f376d2fa4294234881b504805
+      internalID: -6644472421278491111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_145
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1106
+        width: 130
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba4db492c7767d4ca9ea4d6f6208275
+      internalID: 3163497635018935671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_146
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1101
+        width: 135
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58741b6ffa94dc41966e4562da2d529
+      internalID: -3462238929984711146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre boxeur combat 1_147
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1110
+        width: 132
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ee1cc7d6466e429c6b7332706ce99
+      internalID: 4054214756748562856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

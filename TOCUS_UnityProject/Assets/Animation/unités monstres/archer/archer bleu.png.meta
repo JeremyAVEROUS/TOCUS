@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 4824c30c873ea71449d273176b531319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2811480821871840749
+    second: archer bleu_0
+  - first:
+      213: -7527231767117432320
+    second: archer bleu_1
+  - first:
+      213: 7745680515133558247
+    second: archer bleu_2
+  - first:
+      213: -2759785147209861174
+    second: archer bleu_3
+  - first:
+      213: 8360926665293821777
+    second: archer bleu_4
+  - first:
+      213: -8620488847160294226
+    second: archer bleu_5
+  - first:
+      213: -713904150314002896
+    second: archer bleu_6
+  - first:
+      213: 2567364279457045492
+    second: archer bleu_7
+  - first:
+      213: -7761078895585609171
+    second: archer bleu_8
+  - first:
+      213: -7934578800243074018
+    second: archer bleu_9
+  - first:
+      213: 7041244498571659199
+    second: archer bleu_10
+  - first:
+      213: -3728168662838436970
+    second: archer bleu_11
+  - first:
+      213: -3040911752850952143
+    second: archer bleu_12
+  - first:
+      213: -3633431572703364734
+    second: archer bleu_13
+  - first:
+      213: -4197113817584600237
+    second: archer bleu_14
+  - first:
+      213: -4973151682464784720
+    second: archer bleu_15
+  - first:
+      213: -7700739081026965711
+    second: archer bleu_16
+  - first:
+      213: 4515877911180079486
+    second: archer bleu_17
+  - first:
+      213: -8442405536727781756
+    second: archer bleu_18
+  - first:
+      213: -1815390128950323821
+    second: archer bleu_19
+  - first:
+      213: -7558397608258383357
+    second: archer bleu_20
+  - first:
+      213: -5455210278403340494
+    second: archer bleu_21
+  - first:
+      213: -7465297551425737859
+    second: archer bleu_22
+  - first:
+      213: 8364583654979313227
+    second: archer bleu_23
+  - first:
+      213: -4434565094267745285
+    second: archer bleu_24
+  - first:
+      213: -5221654648766829699
+    second: archer bleu_25
+  - first:
+      213: -1151446573884345827
+    second: archer bleu_26
+  - first:
+      213: 8567002481285423782
+    second: archer bleu_27
+  - first:
+      213: -8497582235286339431
+    second: archer bleu_28
+  - first:
+      213: 4666224707917245217
+    second: archer bleu_29
+  - first:
+      213: 3964267507965598319
+    second: archer bleu_30
+  - first:
+      213: 510858245362631241
+    second: archer bleu_31
+  - first:
+      213: -578604799255537003
+    second: archer bleu_32
+  - first:
+      213: -5725207520082641303
+    second: archer bleu_33
+  - first:
+      213: -1741076020780914790
+    second: archer bleu_34
+  - first:
+      213: 3819559303328300012
+    second: archer bleu_35
+  - first:
+      213: 8173567485393435555
+    second: archer bleu_36
+  - first:
+      213: 1500770657167321537
+    second: archer bleu_37
+  - first:
+      213: -7890473435030938735
+    second: archer bleu_38
+  - first:
+      213: 1312896218020176998
+    second: archer bleu_39
+  - first:
+      213: -5758098111284973322
+    second: archer bleu_40
+  - first:
+      213: 6818065316443436655
+    second: archer bleu_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: archer bleu_0
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3167
+        width: 114
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51d677e8ccbc04b816064743072aa0
+      internalID: -2811480821871840749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3165
+        width: 116
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef6345c25b875468c06b7b8ccd82f5
+      internalID: -7527231767117432320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3161
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c697c72188db042b9b0b7d1ad0979a
+      internalID: 7745680515133558247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2974
+        width: 102
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab955128bc898554da1036bad98175f3
+      internalID: -2759785147209861174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2975
+        width: 101
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe25a5a6e02d445bf4c337ee355087
+      internalID: 8360926665293821777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_5
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2976
+        width: 117
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672ec9e535594d4a8ed91f6e761cb50
+      internalID: -8620488847160294226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2802
+        width: 136
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8432051c8ead64c80fc29353c9ab0a
+      internalID: -713904150314002896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_7
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2799
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f54d28fb30920342a628ad1890c8fd2
+      internalID: 2567364279457045492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2802
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e8a90bb30684f429daf85dcc41d816
+      internalID: -7761078895585609171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_9
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 2797
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409080c3b5e51d46a1ae6a06b4424dc
+      internalID: -7934578800243074018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_10
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2804
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb736412b3125ea4eb1c72fb4d5dfea7
+      internalID: 7041244498571659199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_11
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2795
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59f41290db42f48bad182c7c9b037c
+      internalID: -3728168662838436970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_12
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2798
+        width: 139
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68659797d0fc84ca14a7acaee38b7f
+      internalID: -3040911752850952143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2577
+        width: 135
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a04b37aa9aee848b2e71f50dbdfb29
+      internalID: -3633431572703364734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2571
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f73b816a48954b94c0b9bbd007987
+      internalID: -4197113817584600237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_15
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2567
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188443f8ada7d4e4391466042d95431a
+      internalID: -4973151682464784720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_16
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2569
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766651940db38274889b9b5848f307fe
+      internalID: -7700739081026965711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_17
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2579
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68735d188f74f0e4d988521c724e3bf2
+      internalID: 4515877911180079486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_18
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 2569
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e30178b9ef56b4e9038c42586e7ab0
+      internalID: -8442405536727781756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_19
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2571
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf4c5f87aa176842989cbface1774b9
+      internalID: -1815390128950323821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_20
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 2326
+        width: 125
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab8410c89c61f9438f1855f832b6645
+      internalID: -7558397608258383357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_21
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2325
+        width: 113
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8639ef1183dba43b007ce76d55d7ac
+      internalID: -5455210278403340494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_22
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2326
+        width: 122
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84393155bf435742925b9697e06cbb7
+      internalID: -7465297551425737859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_23
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2327
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c64e033357b34b94b19d9fe9ec48f
+      internalID: 8364583654979313227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_24
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2063
+        width: 149
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8634950394ea24ab0c1b75421f8c8c
+      internalID: -4434565094267745285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_25
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2062
+        width: 123
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4b84e33fbb2d49b1c704890f6aa93
+      internalID: -5221654648766829699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_26
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2062
+        width: 114
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f763c7baa5331e49827d46b3b758a4d
+      internalID: -1151446573884345827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_27
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2062
+        width: 123
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602889f62bc3f684c9e7b1214cd78546
+      internalID: 8567002481285423782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_28
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1863
+        width: 195
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb43a8daa5d8714ebeee197576a0dab
+      internalID: -8497582235286339431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_29
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1866
+        width: 195
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981cf1ad4a801d7448083d5dad24e544
+      internalID: 4666224707917245217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_30
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1861
+        width: 194
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef7bf1ba56fc047a6699924b6c77bb
+      internalID: 3964267507965598319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_31
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1666
+        width: 195
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661b166c30b96964ab6483e5f21f63c3
+      internalID: 510858245362631241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_32
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1669
+        width: 195
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbf63af5d999b49b0b4a018259fd0a
+      internalID: -578604799255537003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_33
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1664
+        width: 194
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff519720b29a774599d8887c00237d1
+      internalID: -5725207520082641303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_34
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1459
+        width: 194
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad513fca2c87fd4795f71af64ace10b
+      internalID: -1741076020780914790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_35
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1464
+        width: 176
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8613a6c38a4d46aaf8041dc303d78
+      internalID: 3819559303328300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_36
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1459
+        width: 180
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f55dae5a936b948888deecba8bc021
+      internalID: 8173567485393435555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_37
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1459
+        width: 190
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67601d4822e3c4408751f5e3f00446d
+      internalID: 1500770657167321537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_38
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1263
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38e22fb2708884e8fd91b181046935
+      internalID: -7890473435030938735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_39
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1263
+        width: 162
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ab92c38495fe4cafe92319c407d97
+      internalID: 1312896218020176998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_40
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1265
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd8719212f0ed49b77543bd6453c85
+      internalID: -5758098111284973322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: archer bleu_41
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1260
+        width: 179
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01d70244109b04d9fac68a15c9a1e4
+      internalID: 6818065316443436655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

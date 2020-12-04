@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 24e1fa5eb89a5b047a11356f0c4c2e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6626343310314512310
+    second: monstre lent 1_0
+  - first:
+      213: 7275563869648622315
+    second: monstre lent 1_1
+  - first:
+      213: 1358165668742658182
+    second: monstre lent 1_2
+  - first:
+      213: -8077289812452013740
+    second: monstre lent 1_3
+  - first:
+      213: 8157645155767278981
+    second: monstre lent 1_8
+  - first:
+      213: 673104587177834180
+    second: monstre lent 1_9
+  - first:
+      213: 5237279522167564826
+    second: monstre lent 1_11
+  - first:
+      213: 348170443890300727
+    second: monstre lent 1_13
+  - first:
+      213: 1843234440024400201
+    second: monstre lent 1_18
+  - first:
+      213: -3773064574384998647
+    second: monstre lent 1_19
+  - first:
+      213: 8368582690141123497
+    second: monstre lent 1_20
+  - first:
+      213: 1617090699176687510
+    second: monstre lent 1_21
+  - first:
+      213: -6119966112990951200
+    second: monstre lent 1_22
+  - first:
+      213: -7870980021228819924
+    second: monstre lent 1_27
+  - first:
+      213: -6987691678151090149
+    second: monstre lent 1_29
+  - first:
+      213: 5375506029739309102
+    second: monstre lent 1_30
+  - first:
+      213: -2030293614281828542
+    second: monstre lent 1_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstre lent 1_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3196
+        width: 136
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda91d79e3aea14abc3b33d24358661
+      internalID: 6626343310314512310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3198
+        width: 173
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52db22130e5a09849981fa56a163841b
+      internalID: 7275563869648622315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 3201
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f36a8434eb4c7438e46e5f4dd8dc1b
+      internalID: 1358165668742658182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_3
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3196
+        width: 143
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690167e0b7cf22c43b4e5b5bf53f7fed
+      internalID: -8077289812452013740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2997
+        width: 141
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa2b99009ee6d41b8f895c0908464d
+      internalID: 8157645155767278981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3006
+        width: 167
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa4d412d661d31429a219a47989131a
+      internalID: 673104587177834180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3006
+        width: 172
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f2f4f004131b4b90aee837cffe16a
+      internalID: 5237279522167564826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3006
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83107006435b96d438ba2df0647d06e4
+      internalID: 348170443890300727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3049
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf94bf1e630c6a94a8cdb7d1550f4ede
+      internalID: 1843234440024400201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2731
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a0213fdba5b544a20babc51fe5294
+      internalID: -3773064574384998647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2734
+        width: 173
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574601fc68fa604394b4d52feb14d0d
+      internalID: 8368582690141123497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_21
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2733
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6068874d607e4f82973b217b15e93
+      internalID: 1617090699176687510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2722
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada940af2b87b0540ab71ba0760017b1
+      internalID: -6119966112990951200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2498
+        width: 137
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e28024e24c68341aeb99f044641050
+      internalID: -7870980021228819924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2507
+        width: 173
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bbdc2bc53373d42a7569861192c766
+      internalID: -6987691678151090149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_30
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2508
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66d17b1e6d7f847a1b296f5002658f
+      internalID: 5375506029739309102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monstre lent 1_31
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2508
+        width: 152
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3d55df2b12a2468e37a300f818747
+      internalID: -2030293614281828542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

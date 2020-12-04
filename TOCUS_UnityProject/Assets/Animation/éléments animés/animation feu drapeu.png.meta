@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 02095204a1eff824d9453ebf84c86185
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7860456698544596877
+    second: animation feu drapeu_5
+  - first:
+      213: 548562058443563546
+    second: animation feu drapeu_7
+  - first:
+      213: 6851839355108770730
+    second: animation feu drapeu_19
+  - first:
+      213: -8735330915905939308
+    second: animation feu drapeu_21
+  - first:
+      213: 6185982595891419545
+    second: animation feu drapeu_23
+  - first:
+      213: -4050924957533010276
+    second: animation feu drapeu_24
+  - first:
+      213: 3944779195561237969
+    second: animation feu drapeu_27
+  - first:
+      213: 1906570674600561692
+    second: animation feu drapeu_28
+  - first:
+      213: -8337154606804482288
+    second: animation feu drapeu_29
+  - first:
+      213: 2715295591553468527
+    second: animation feu drapeu_30
+  - first:
+      213: 1796140624988912436
+    second: animation feu drapeu_31
+  - first:
+      213: -5178208271768691178
+    second: animation feu drapeu_32
+  - first:
+      213: 7786805506104730264
+    second: animation feu drapeu_33
+  - first:
+      213: 5593460644540953405
+    second: animation feu drapeu_34
+  - first:
+      213: 3510067950805766657
+    second: animation feu drapeu_35
+  - first:
+      213: -588755899471800875
+    second: animation feu drapeu_36
+  - first:
+      213: 6028856950998901787
+    second: animation feu drapeu_37
+  - first:
+      213: -5235519651245929835
+    second: animation feu drapeu_38
+  - first:
+      213: -3390005715608355390
+    second: animation feu drapeu_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation feu drapeu_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3039
+        width: 85
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8d346c73e421489f5fcb0be97bf15
+      internalID: -7860456698544596877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3039
+        width: 80
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449f432caba734149bed459f49edd741
+      internalID: 548562058443563546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_19
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3037
+        width: 78
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b3c82faeb4dd4084e15194ccc0582
+      internalID: 6851839355108770730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3045
+        width: 83
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b958904bf9a24abf98d26502a5148
+      internalID: -8735330915905939308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3037
+        width: 87
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861d18ed83a65b488c30b7ecbcd77e0
+      internalID: 6185982595891419545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_24
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3039
+        width: 67
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a035a765452a14f90d3cbd138047bc
+      internalID: -4050924957533010276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_27
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3041
+        width: 86
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584ab9753f5696a4992cd4ec476fcdb9
+      internalID: 3944779195561237969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2670
+        width: 158
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b907d95606454980dd47585e550b1
+      internalID: 1906570674600561692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_29
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2670
+        width: 153
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda7ebf0b8e3fb49923060733288e30
+      internalID: -8337154606804482288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2669
+        width: 168
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473c751acb59b145941ad1446c1fda4
+      internalID: 2715295591553468527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2433
+        width: 165
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb2cced4c730b4e9c113c55e3157ce
+      internalID: 1796140624988912436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2433
+        width: 182
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed77f0614998d429ceb62867d18b50
+      internalID: -5178208271768691178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2433
+        width: 179
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f9fc5970ca364ea9d861447d17dcf
+      internalID: 7786805506104730264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2109
+        width: 159
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee14f52c1740bd14c8d4c2df1cfb3996
+      internalID: 5593460644540953405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2109
+        width: 156
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3facfab4a5b065649a6fae7fbcccf26b
+      internalID: 3510067950805766657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2109
+        width: 170
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb718722504bb4baaedc525ef4477f
+      internalID: -588755899471800875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1880
+        width: 166
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1305e79663a09b40a32036fc40f18ef
+      internalID: 6028856950998901787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_38
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1880
+        width: 178
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4aae2e0f904d94fa32daa8bd73b841
+      internalID: -5235519651245929835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation feu drapeu_39
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1880
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd8eff741da0034da82b300765012b7
+      internalID: -3390005715608355390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

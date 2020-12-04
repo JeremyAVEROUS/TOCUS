@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 35e441a2e6ca7f84c8de8e0999675cfb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5139297474497698688
+    second: soldatrouge_0
+  - first:
+      213: -4953434319782646720
+    second: soldatrouge_1
+  - first:
+      213: -8156311233814859750
+    second: soldatrouge_3
+  - first:
+      213: 4933213899498295682
+    second: soldatrouge_4
+  - first:
+      213: 2826981700792514259
+    second: soldatrouge_5
+  - first:
+      213: -9113351432129478541
+    second: soldatrouge_6
+  - first:
+      213: -2539330672476903013
+    second: soldatrouge_7
+  - first:
+      213: -7601294157824641318
+    second: soldatrouge_8
+  - first:
+      213: 6449033300952486982
+    second: soldatrouge_9
+  - first:
+      213: -2015501624211227035
+    second: soldatrouge_10
+  - first:
+      213: 955959511427897275
+    second: soldatrouge_12
+  - first:
+      213: -4533561716806015963
+    second: soldatrouge_13
+  - first:
+      213: -3134771197116236568
+    second: soldatrouge_14
+  - first:
+      213: 2010281674274878424
+    second: soldatrouge_15
+  - first:
+      213: -3994363627949925337
+    second: soldatrouge_16
+  - first:
+      213: 2496653135790270602
+    second: soldatrouge_17
+  - first:
+      213: 123921792275022850
+    second: soldatrouge_18
+  - first:
+      213: 3415150822835645544
+    second: soldatrouge_19
+  - first:
+      213: -7145318560529778560
+    second: soldatrouge_21
+  - first:
+      213: -1944935223267826730
+    second: soldatrouge_23
+  - first:
+      213: -7111877229379749050
+    second: soldatrouge_24
+  - first:
+      213: -1974336515340696504
+    second: soldatrouge_29
+  - first:
+      213: -9024220443276437910
+    second: soldatrouge_30
+  - first:
+      213: -4728517037280196138
+    second: soldatrouge_32
+  - first:
+      213: -6079575554552394268
+    second: soldatrouge_36
+  - first:
+      213: -781794621287484367
+    second: soldatrouge_37
+  - first:
+      213: 3771534722612475896
+    second: soldatrouge_38
+  - first:
+      213: -8945822371068846260
+    second: soldatrouge_39
+  - first:
+      213: 310138671819590704
+    second: soldatrouge_40
+  - first:
+      213: 6736955646533412696
+    second: soldatrouge_41
+  - first:
+      213: 3441217969119365748
+    second: soldatrouge_42
+  - first:
+      213: 5132700746166826596
+    second: soldatrouge_43
+  - first:
+      213: -8030353427499542630
+    second: soldatrouge_44
+  - first:
+      213: 6516697128197166574
+    second: soldatrouge_45
+  - first:
+      213: 4750013097868185431
+    second: soldatrouge_46
+  - first:
+      213: 6376565014865423618
+    second: soldatrouge_47
+  - first:
+      213: 3507496201209399704
+    second: soldatrouge_48
+  - first:
+      213: -2227097710966277044
+    second: soldatrouge_49
+  - first:
+      213: -2659764081504803185
+    second: soldatrouge_50
+  - first:
+      213: -1362717830396721578
+    second: soldatrouge_51
+  - first:
+      213: 5586567226192946309
+    second: soldatrouge_52
+  - first:
+      213: -1178882393532769071
+    second: soldatrouge_53
+  - first:
+      213: -6687534063573977351
+    second: soldatrouge_54
+  - first:
+      213: 3505128583891183340
+    second: soldatrouge_55
+  - first:
+      213: -8560873303112062
+    second: soldatrouge_56
+  - first:
+      213: -6122481575756631014
+    second: soldatrouge_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldatrouge_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3240
+        width: 177
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd52e95f9444f429e2222cf3c4ceab
+      internalID: 5139297474497698688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3227
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47acd433495273498fd690856ee014a
+      internalID: -4953434319782646720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3227
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94faee07a265df459480ee795a389f2
+      internalID: -8156311233814859750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3226
+        width: 152
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c736c628b83e34d498a6c09b9eb85981
+      internalID: 4933213899498295682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3225
+        width: 155
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a101826143ad49bbbe2e2d7ca9dd6
+      internalID: 2826981700792514259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_6
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 3223
+        width: 165
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c65792528285f4e998158ed83458fc
+      internalID: -9113351432129478541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_7
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3215
+        width: 151
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aeaafa1ceccfa48bb6b0185494bad7
+      internalID: -2539330672476903013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_8
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 3200
+        width: 154
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840bee3d67c7f6848b3964d2d3f3f960
+      internalID: -7601294157824641318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_9
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 3207
+        width: 158
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685937fb81dfc1a4a98fd1ced2210547
+      internalID: 6449033300952486982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_10
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc4b5458d9fbbe409286e962ed4774b
+      internalID: -2015501624211227035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2975
+        width: 143
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa22c589d714247b0866b9e290395c
+      internalID: 955959511427897275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2968
+        width: 158
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f85ffee409840469f1d6135637379b
+      internalID: -4533561716806015963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2978
+        width: 162
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc5e23a4a81cb4893e168a50e42430
+      internalID: -3134771197116236568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_15
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2985
+        width: 166
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d05c7b70fff0947b9b5d13a419111a
+      internalID: 2010281674274878424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_16
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2983
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db2dd60b3edd344b3146cf5703524f
+      internalID: -3994363627949925337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_17
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2983
+        width: 153
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983b86f50c9af334782a9a162eede5bc
+      internalID: 2496653135790270602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_18
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2981
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40862cf8d35e1b4f9ea4fff05d2e716
+      internalID: 123921792275022850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_19
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2982
+        width: 176
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefba12375f8cff4d8a2fc9278aba329
+      internalID: 3415150822835645544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_21
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2990
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e6d06f38ba6a4b95dd45151cdbf25
+      internalID: -7145318560529778560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2977
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54312c13614bb44c9da5d57f9873883
+      internalID: -1944935223267826730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2762
+        width: 149
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9982a612e6cce4ebe6a750b4959d54
+      internalID: -7111877229379749050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2755
+        width: 195
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb42a320cfb924d9e73e178087e382
+      internalID: -1974336515340696504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2750
+        width: 209
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe4a578846adb3449ede0603f6e7e94
+      internalID: -9024220443276437910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_32
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2738
+        width: 234
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa54bcdf012b04ca016cc45bfa1a77
+      internalID: -4728517037280196138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_36
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde75b7378523f40a4459574eaab09d
+      internalID: -6079575554552394268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_37
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2725
+        width: 234
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f41ba40fa3ec47905d29eccae6f81
+      internalID: -781794621287484367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_38
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2719
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e4256a2f4f1e7469e0e4610b8a32f2
+      internalID: 3771534722612475896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_39
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2714
+        width: 178
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e17381f0572dc7469370896f911d535
+      internalID: -8945822371068846260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_40
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2704
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46969db59d80242be223ca05b5d35f
+      internalID: 310138671819590704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2517
+        width: 146
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57091c614efe374409fb9122249aa0c0
+      internalID: 6736955646533412696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2512
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5f330711be4b4698d20b22767fdc8
+      internalID: 3441217969119365748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2509
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d5b64ce8458c4294854e45c49dd8f
+      internalID: 5132700746166826596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_44
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2498
+        width: 235
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177c6704c7143ea48b71859581473754
+      internalID: -8030353427499542630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_45
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2496
+        width: 248
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9c6b90b2e0ff42a580b54a27759be
+      internalID: 6516697128197166574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_46
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2491
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50bf839d2c6a174184aef90086f3357
+      internalID: 4750013097868185431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_47
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2485
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5aef0d46ab369489bde830684db3e8
+      internalID: 6376565014865423618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_48
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2466
+        width: 210
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83958533e51766c4e82cb9b968d618ef
+      internalID: 3507496201209399704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_49
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2458
+        width: 203
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f7f6aa6a338d4baff4f3fbfc16f70
+      internalID: -2227097710966277044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2305
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a7b946fed93894fbc1de065c2918d7
+      internalID: -2659764081504803185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2289
+        width: 192
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3d9b6bebe14ee44beb92f201cecbd7
+      internalID: -1362717830396721578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_52
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2214
+        width: 188
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750db0e5cf9207040b8a0435d913ce21
+      internalID: 5586567226192946309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_53
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2214
+        width: 210
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ec662fec68044faab4aff1d4b1ead
+      internalID: -1178882393532769071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_54
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2214
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424930011517b2e4193187b2b4a0e4e2
+      internalID: -6687534063573977351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_55
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2214
+        width: 207
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125043099e400a4a80407109a841f05
+      internalID: 3505128583891183340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1939
+        width: 189
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b9ba9f6d9ce74b84e3f0a287360f4
+      internalID: -8560873303112062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatrouge_57
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1940
+        width: 188
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef287e396d89c2429a56c8cf6ae5e11
+      internalID: -6122481575756631014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

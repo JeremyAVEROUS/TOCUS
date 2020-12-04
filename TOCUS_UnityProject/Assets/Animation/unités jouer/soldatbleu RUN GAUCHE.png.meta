@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: e8eff29fd3b171d46b8fb8b7dee96d38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5967122813138647086
+    second: soldatbleu RUN GAUCHE_0
+  - first:
+      213: -576504968309633736
+    second: soldatbleu RUN GAUCHE_1
+  - first:
+      213: -8676541439041491538
+    second: soldatbleu RUN GAUCHE_3
+  - first:
+      213: 722855020237290849
+    second: soldatbleu RUN GAUCHE_4
+  - first:
+      213: -7935488836361349297
+    second: soldatbleu RUN GAUCHE_5
+  - first:
+      213: 1476079716580134355
+    second: soldatbleu RUN GAUCHE_6
+  - first:
+      213: -471129316131702128
+    second: soldatbleu RUN GAUCHE_7
+  - first:
+      213: -3037972076648426766
+    second: soldatbleu RUN GAUCHE_8
+  - first:
+      213: -559267114215500724
+    second: soldatbleu RUN GAUCHE_9
+  - first:
+      213: -9091022305184117790
+    second: soldatbleu RUN GAUCHE_10
+  - first:
+      213: -481760963121942343
+    second: soldatbleu RUN GAUCHE_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3254
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bac3d71aa09d43813df79dbf928b4
+      internalID: -5967122813138647086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3238
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8d1519baf7710468680726b61e5155
+      internalID: -576504968309633736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3238
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854395e606262d49baf47e492b5c3fd
+      internalID: -8676541439041491538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3247
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410e1cfb96224e49b829206f529acfc
+      internalID: 722855020237290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3239
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa230a64126f940812f4dd86d7c28b
+      internalID: -7935488836361349297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 3234
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398b4c51de51254396df9f47263a338
+      internalID: 1476079716580134355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_7
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3225
+        width: 157
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6577f5f0a73e546b498c213dbc870b
+      internalID: -471129316131702128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_8
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 3215
+        width: 157
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d483d4c078bd44b04058a721333d2
+      internalID: -3037972076648426766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_9
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3218
+        width: 169
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58709169e1007d14d9d718d8af242a4e
+      internalID: -559267114215500724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_10
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 3224
+        width: 159
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634ae1fe29482f44bb5f6e2859538e9
+      internalID: -9091022305184117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu RUN GAUCHE_11
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 3223
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b41ae55a8b474ca8d63469279c412
+      internalID: -481760963121942343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

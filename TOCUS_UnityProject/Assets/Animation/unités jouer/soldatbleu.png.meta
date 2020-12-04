@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 57e3fc958e3bda440977325487817650
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2505785336915251435
+    second: soldatbleu_2
+  - first:
+      213: -1198237697864686041
+    second: soldatbleu_10
+  - first:
+      213: 3620839064303158243
+    second: soldatbleu_23
+  - first:
+      213: -6026042523345609047
+    second: soldatbleu_24
+  - first:
+      213: 98063234966020695
+    second: soldatbleu_29
+  - first:
+      213: 9083780919061430144
+    second: soldatbleu_30
+  - first:
+      213: 4087423519138359826
+    second: soldatbleu_32
+  - first:
+      213: 8803920689034695065
+    second: soldatbleu_36
+  - first:
+      213: -7817233792279772865
+    second: soldatbleu_37
+  - first:
+      213: 4951905324452074711
+    second: soldatbleu_38
+  - first:
+      213: 7796979068539631021
+    second: soldatbleu_39
+  - first:
+      213: 7765382131335870247
+    second: soldatbleu_40
+  - first:
+      213: 7717783538620289131
+    second: soldatbleu_41
+  - first:
+      213: 5227627874836382771
+    second: soldatbleu_42
+  - first:
+      213: -7774352259853934428
+    second: soldatbleu_43
+  - first:
+      213: -2265214971716315694
+    second: soldatbleu_44
+  - first:
+      213: -4436961015783152184
+    second: soldatbleu_45
+  - first:
+      213: 4076812380371936374
+    second: soldatbleu_46
+  - first:
+      213: -4637243736472266423
+    second: soldatbleu_47
+  - first:
+      213: 6563491792954417170
+    second: soldatbleu_48
+  - first:
+      213: 7416798454548118352
+    second: soldatbleu_49
+  - first:
+      213: -8074455093988186691
+    second: soldatbleu_50
+  - first:
+      213: 484846815984647477
+    second: soldatbleu_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldatbleu_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3232
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860979e50fb9bf499744e52d212b96c
+      internalID: -2505785336915251435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_10
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3213
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c2201b76175640a304ede2182217e
+      internalID: -1198237697864686041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_23
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2977
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba5b47bb9fe6b14eaff255913a8257e
+      internalID: 3620839064303158243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2762
+        width: 149
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef2eca604623b43bbc52a3d336898a
+      internalID: -6026042523345609047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_29
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2755
+        width: 198
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f84edde8033bc468ff22558276afed
+      internalID: 98063234966020695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2750
+        width: 209
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286d0d82df18ed34cbb682efde3eef22
+      internalID: 9083780919061430144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_32
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2738
+        width: 230
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0ee7ded1e0b5c41b807ec0ecacbd04
+      internalID: 4087423519138359826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_36
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2721
+        width: 163
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e1cffe99805e48a41fa25b61a3871
+      internalID: 8803920689034695065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_37
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 2725
+        width: 234
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269a33c3c5b72f43bd67474032284ed
+      internalID: -7817233792279772865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_38
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2719
+        width: 163
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8effd64485dcddf469baf000c825fc55
+      internalID: 4951905324452074711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_39
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2714
+        width: 178
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87603597c95f8284fab7008e79a39f39
+      internalID: 7796979068539631021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_40
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2704
+        width: 195
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47c54f76dc99ee408270adaf9ae1189
+      internalID: 7765382131335870247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2517
+        width: 146
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c18711201f798439cd81014095e21e
+      internalID: 7717783538620289131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2512
+        width: 186
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34cb78c73b8e014f83ff3d484a49132
+      internalID: 5227627874836382771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_43
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2509
+        width: 187
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6fb5ec8d20c54996b1e46854e122f
+      internalID: -7774352259853934428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_44
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2498
+        width: 235
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd4abeb58392d46ba9ff2b9a41880f
+      internalID: -2265214971716315694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_45
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2496
+        width: 248
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c2ff4e41f6704baf22affc73f2e6f
+      internalID: -4436961015783152184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_46
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2491
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff6229bf36cca498f94b7fcbcdf8f6
+      internalID: 4076812380371936374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_47
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2485
+        width: 172
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb539d945f99d0e438c2c7aa3bb61989
+      internalID: -4637243736472266423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_48
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2466
+        width: 210
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6f1d9cdc967b44a53eb329fd54ac1
+      internalID: 6563491792954417170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_49
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 2458
+        width: 203
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3badfc986b86744b8a38d013000348d
+      internalID: 7416798454548118352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2305
+        width: 194
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c7714d83a27064da381286aba3f3cc
+      internalID: -8074455093988186691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soldatbleu_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2289
+        width: 192
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf80e1a41039d4ba401207479629d0
+      internalID: 484846815984647477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

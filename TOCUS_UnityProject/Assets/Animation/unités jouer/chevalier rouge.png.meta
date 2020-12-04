@@ -1,0 +1,1567 @@
+fileFormatVersion: 2
+guid: 4380648d29bc15049af6f22e16367fc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4199742483915260305
+    second: chevalier rouge_0
+  - first:
+      213: -4327524600069594920
+    second: chevalier rouge_1
+  - first:
+      213: 2650457795501816234
+    second: chevalier rouge_2
+  - first:
+      213: 3053508975526590139
+    second: chevalier rouge_3
+  - first:
+      213: 2914936529334607569
+    second: chevalier rouge_4
+  - first:
+      213: -4786009956894665555
+    second: chevalier rouge_5
+  - first:
+      213: -1986788565812725392
+    second: chevalier rouge_6
+  - first:
+      213: -3531109421525915534
+    second: chevalier rouge_7
+  - first:
+      213: 810359677814653856
+    second: chevalier rouge_8
+  - first:
+      213: -5862627404625195371
+    second: chevalier rouge_9
+  - first:
+      213: -5626480358112297801
+    second: chevalier rouge_10
+  - first:
+      213: -4249747041813109322
+    second: chevalier rouge_11
+  - first:
+      213: 20456473597298351
+    second: chevalier rouge_12
+  - first:
+      213: -5652920611373445559
+    second: chevalier rouge_13
+  - first:
+      213: 1359700757839234447
+    second: chevalier rouge_14
+  - first:
+      213: 2318940375739591412
+    second: chevalier rouge_15
+  - first:
+      213: -8892045104427181633
+    second: chevalier rouge_16
+  - first:
+      213: 3171016003526949106
+    second: chevalier rouge_17
+  - first:
+      213: -7662951323934230049
+    second: chevalier rouge_18
+  - first:
+      213: 5024328169040145240
+    second: chevalier rouge_19
+  - first:
+      213: 5313908696449548366
+    second: chevalier rouge_20
+  - first:
+      213: -693871427225164991
+    second: chevalier rouge_21
+  - first:
+      213: 2059127831264493850
+    second: chevalier rouge_22
+  - first:
+      213: 9164255348751454565
+    second: chevalier rouge_23
+  - first:
+      213: -4197156491421506568
+    second: chevalier rouge_24
+  - first:
+      213: -4586113309681646812
+    second: chevalier rouge_25
+  - first:
+      213: 232941658253319943
+    second: chevalier rouge_26
+  - first:
+      213: 2727822906597784188
+    second: chevalier rouge_27
+  - first:
+      213: -5671807513091158551
+    second: chevalier rouge_28
+  - first:
+      213: 8301625689819888681
+    second: chevalier rouge_29
+  - first:
+      213: -1016229467481208788
+    second: chevalier rouge_30
+  - first:
+      213: 1797832668978461293
+    second: chevalier rouge_31
+  - first:
+      213: -732220372207841879
+    second: chevalier rouge_32
+  - first:
+      213: -1017383033040877933
+    second: chevalier rouge_33
+  - first:
+      213: -6879353253276398338
+    second: chevalier rouge_34
+  - first:
+      213: -4964548330061752314
+    second: chevalier rouge_35
+  - first:
+      213: 1720467962472534810
+    second: chevalier rouge_36
+  - first:
+      213: 3457400330693221596
+    second: chevalier rouge_37
+  - first:
+      213: 5183392324511192151
+    second: chevalier rouge_38
+  - first:
+      213: 6547654277771087192
+    second: chevalier rouge_39
+  - first:
+      213: 820733819585398470
+    second: chevalier rouge_40
+  - first:
+      213: 8507457077270140670
+    second: chevalier rouge_41
+  - first:
+      213: -2635322172431434538
+    second: chevalier rouge_42
+  - first:
+      213: -25707510143987251
+    second: chevalier rouge_43
+  - first:
+      213: -7370062842559134984
+    second: chevalier rouge_44
+  - first:
+      213: 1378692930862154119
+    second: chevalier rouge_45
+  - first:
+      213: 6364092120840221155
+    second: chevalier rouge_46
+  - first:
+      213: 8181486192929665719
+    second: chevalier rouge_47
+  - first:
+      213: -4751087131481500422
+    second: chevalier rouge_48
+  - first:
+      213: -2099240827330784159
+    second: chevalier rouge_49
+  - first:
+      213: 3273920219304369582
+    second: chevalier rouge_50
+  - first:
+      213: -4011329768080781167
+    second: chevalier rouge_51
+  - first:
+      213: -5121312608224539068
+    second: chevalier rouge_52
+  - first:
+      213: 7700582458810345973
+    second: chevalier rouge_53
+  - first:
+      213: -8191177060114650314
+    second: chevalier rouge_54
+  - first:
+      213: 8808558239783604808
+    second: chevalier rouge_55
+  - first:
+      213: 8554819699707191762
+    second: chevalier rouge_56
+  - first:
+      213: -671589957670182445
+    second: chevalier rouge_57
+  - first:
+      213: -1334696734683829515
+    second: chevalier rouge_58
+  - first:
+      213: 110963470531120457
+    second: chevalier rouge_59
+  - first:
+      213: 3376286067929075657
+    second: chevalier rouge_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chevalier rouge_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3175
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932328812db215b48aa0d3e36f7adf7c
+      internalID: -4199742483915260305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_1
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 3177
+        width: 111
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac42c872a826346821fc694c6956a9
+      internalID: -4327524600069594920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_2
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3175
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fadc28381bbe4ba8b8ad29de15077
+      internalID: 2650457795501816234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3175
+        width: 179
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1ad59fbc14d84dacf01905e0caf81
+      internalID: 3053508975526590139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_4
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 3175
+        width: 140
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31ab4ec2a8a3f438743543ac03a792
+      internalID: 2914936529334607569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_5
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3180
+        width: 121
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d105d86a5d4b241be86dec69c19731
+      internalID: -4786009956894665555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_6
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3177
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d628039fd0b3d3e48b4b48c3f6a11635
+      internalID: -1986788565812725392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_7
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3175
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d83305f03b6a564b94cef0df47425e3
+      internalID: -3531109421525915534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_8
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3180
+        width: 149
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33bf72fd1e3a574fa86c91d21d3b0e0
+      internalID: 810359677814653856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2894
+        width: 154
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d314c49886d741a4dc4f4302b99f1
+      internalID: -5862627404625195371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 2892
+        width: 114
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2732251f3be2f3e46961073fffcd6e94
+      internalID: -5626480358112297801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_11
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 2894
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e91ced029f8549aae575f5b5aed4a
+      internalID: -4249747041813109322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_12
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2892
+        width: 181
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546d68a6770f3844b4a7e13518b15da
+      internalID: 20456473597298351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_13
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2891
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38626ac431785f34ea387a28a93138e8
+      internalID: -5652920611373445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_14
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2892
+        width: 110
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29c486c21207d8498796e67b7a0d2d5
+      internalID: 1359700757839234447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_15
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2889
+        width: 124
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bcc74bf83913a40ac9a2e47d6c0ee0
+      internalID: 2318940375739591412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_16
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 2893
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d239d4377b3546bbc7bac4f096418
+      internalID: -8892045104427181633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_17
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2888
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f1d059b95f0ff449f7300d1128d8a9
+      internalID: 3171016003526949106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2566
+        width: 99
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb5f79f9e1ef3349a68650e2e4e0160
+      internalID: -7662951323934230049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2555
+        width: 100
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789b331fb822ca428518cf98fc1b42b
+      internalID: 5024328169040145240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2559
+        width: 105
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa327940d89f14887719bab94c627e
+      internalID: 5313908696449548366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2553
+        width: 106
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1adb3d082ed0144b4230d0727aed1e
+      internalID: -693871427225164991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_22
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2559
+        width: 112
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c578ac90c3be049a3b2d6de1cf7196
+      internalID: 2059127831264493850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2567
+        width: 112
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aaffa165b5dc64a8595cfdb0028051
+      internalID: 9164255348751454565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_24
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2566
+        width: 109
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf232e53d86f694f8ff4f09d8a400ec
+      internalID: -4197156491421506568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_25
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2562
+        width: 104
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1693c2234097e4aa8aac766961f7fc
+      internalID: -4586113309681646812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_26
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2558
+        width: 103
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8173e1b4f492c5409c0956b6d7359ed
+      internalID: 232941658253319943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_27
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2557
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d81226941b67eb4088387b1b6a6e2bf
+      internalID: 2727822906597784188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_28
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2551
+        width: 111
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7dba295071f804689edd4c564a246e
+      internalID: -5671807513091158551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_29
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2565
+        width: 118
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e363e24e433da942a868713d0db8cdd
+      internalID: 8301625689819888681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_30
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2197
+        width: 107
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f23c5de31ce2846b3ae828bf540f56
+      internalID: -1016229467481208788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_31
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2199
+        width: 103
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0efba124b419fb499a87f75512c0ee8
+      internalID: 1797832668978461293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_32
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2202
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897552f74d16f454a8481409f2233acf
+      internalID: -732220372207841879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_33
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 2368
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9771e7a3811dfc645b359093418539a7
+      internalID: -1017383033040877933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_34
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2206
+        width: 109
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33807ba63f00a6248b70395e9a866f3d
+      internalID: -6879353253276398338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_35
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2200
+        width: 112
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f3061021316f4fbcacfeed94b4f28
+      internalID: -4964548330061752314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_36
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2192
+        width: 107
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5b5b1bfa943f4d9e15d22e71c0378
+      internalID: 1720467962472534810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_37
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 2195
+        width: 101
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823bc0275e368194b9f52ab37f183d2d
+      internalID: 3457400330693221596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_38
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2205
+        width: 99
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131498193be2eda4289be20ac0377683
+      internalID: 5183392324511192151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2203
+        width: 119
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e95b1b37a3af843a768ceb8dbae7c4
+      internalID: 6547654277771087192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2191
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ecbbd7235239c4e8430070d9be93dc
+      internalID: 820733819585398470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_41
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2207
+        width: 112
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbad4ba0171394bacd883b735b0d13
+      internalID: 8507457077270140670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_42
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2199
+        width: 105
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f05bb9557978042b25fde5c5389cd7
+      internalID: -2635322172431434538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_43
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1947
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a774f00c6091b44ebb5c4848bf4ad1a
+      internalID: -25707510143987251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1937
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a25d53b3ae3604e8f629db682b9dc0
+      internalID: -7370062842559134984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_45
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1939
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340a7b8fb0a67c64c81176a756bdf511
+      internalID: 1378692930862154119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_46
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1939
+        width: 109
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c0fcf676d8a54db7edfa9820c721c
+      internalID: 6364092120840221155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_47
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1783
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf3df534c502f41b503f1c1abc9a67
+      internalID: 8181486192929665719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1772
+        width: 110
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde463cb41a22d4baf40015f7e4e0f3
+      internalID: -4751087131481500422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_49
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1775
+        width: 105
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2e77bab39a774c8e4e2b350409f2c
+      internalID: -2099240827330784159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_50
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1775
+        width: 109
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04acbdd78b328c40951fd5bf5f6916b
+      internalID: 3273920219304369582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1602
+        width: 145
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e9507f87380c49985c340e2c7be26
+      internalID: -4011329768080781167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_52
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1611
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c20da5860a9c624c97b1238276675bd
+      internalID: -5121312608224539068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1371
+        width: 128
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f47206eacaac458f9a9ae0f6ca141
+      internalID: 7700582458810345973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_54
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1379
+        width: 126
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca8be636c2a2a4db89cd2a968e6380
+      internalID: -8191177060114650314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_55
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1371
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a58941f54159e14e894c48d08c5daf0
+      internalID: 8808558239783604808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_56
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1382
+        width: 142
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5aaa8b907e88649bff2ddf9f8f9bf3
+      internalID: 8554819699707191762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_57
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1370
+        width: 150
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1f4fbe5c6aa4e42841f2ae7f00274d
+      internalID: -671589957670182445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_58
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1365
+        width: 144
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6fd1ba976b4d479f5e78d048469d3
+      internalID: -1334696734683829515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_59
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1375
+        width: 127
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205c999c5949e74983464fb51df9d8c
+      internalID: 110963470531120457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chevalier rouge_60
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1377
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616a316bff20fad4e9f940fe1d2520e5
+      internalID: 3376286067929075657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
